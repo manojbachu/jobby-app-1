@@ -1,0 +1,12 @@
+.nav-header {
+  display: flex;
+  background-color: #272727;
+  align-items: center;
+  height: 10vh;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.home-logo-image {
+  height: 32px;
+}
